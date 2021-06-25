@@ -2,6 +2,10 @@
 REQUREMENTS
 
 
+
+https://user-images.githubusercontent.com/80026547/123420394-23ca1d80-d5d9-11eb-8271-e6477ee843e2.mp4
+
+
 Libraries Required for Music Player:
 
 1.Tkinter
